@@ -1,0 +1,5 @@
+#ifndef SEARCHABLE_ARRAY_BAG_HPP
+#define SEARCHABLE_ARRAY_BAG_HPP
+
+
+#endif
