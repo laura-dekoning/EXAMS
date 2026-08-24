@@ -10,6 +10,7 @@ tree_bag::tree_bag(const tree_bag &src) {
 }
 
 tree_bag::~tree_bag() {
+	std::cout << "tree root = " << tree << std::endl;
 	destroy_tree(tree);
 }
 
